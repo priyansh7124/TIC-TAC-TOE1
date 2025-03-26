@@ -3,7 +3,7 @@ const App =()=>
 {
   return (
     <>
-      <p>Hello Priyansh Here!!</p>
+      <p>Hello Priyanshi Here!!</p>
     </>
   )
 }
