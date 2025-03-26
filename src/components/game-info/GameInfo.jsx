@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Friends from '../../assets/images/friends.webp';
 
 
 const GameInfo = ({status,winner,xIsNext}) => {
